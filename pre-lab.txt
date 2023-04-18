@@ -1,0 +1,14 @@
+apa yang dimaksud dengan Web?
+Apa yang membedakan antara URI dan URL?
+Sebutkan 3 buah tag dasar yang ada pada HTML?
+Pada HTML kita kenal ada penulisan DOCTYPE html. Apa maksud dari tulisan tersebut?\
+
+jawab:
+1.teknoligi yang bertujuan untuk membagikan informasi dalam bentuk visual atau audio yang dapat di bagikan pada banyak orang
+2.-URL=Uniform Resource Locator(di mana lokasinya)
+  -URI=Uniform Resource identifier(tempat sumber daya atau datanya)
+3.a.tag <h1>-<h6>= untuk Heading
+  b.tag <p> untuk paragraf
+  c.tag <br> digunakan untuk pemisahan baris
+4.tag yang digunakanunk menjelaskan jenis file yang digunakan 
+  termasuk ke dalam jenis file HTML.
